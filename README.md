@@ -1,1 +1,1 @@
-# mini-search-engine
+/workspaces/mini-search-engine/credits.html
